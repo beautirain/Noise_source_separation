@@ -1,0 +1,5 @@
+checkpoints/
+data_clean_segments/
+data_mixtures/
+data_raw/
+eval_results/
