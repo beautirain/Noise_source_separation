@@ -3,7 +3,9 @@
 Full dataset and evaluation details will be released after paper acceptance
 
 A deep learning–based framework for transformer noise extraction and acoustic evaluation under complex multi-source noise environments
+
 📌 Project Overview
+
 This repository presents a target-oriented noise source separation framework designed for substation transformer noise analysis and intelligent acoustic evaluation.
 
 Unlike generic speech separation tasks, this project focuses on extracting steady-state transformer equipment noise from complex acoustic environments (urban noise, wind, rain, human activities, etc.), and quantitatively evaluating the separation quality using engineering-relevant acoustic metrics.
